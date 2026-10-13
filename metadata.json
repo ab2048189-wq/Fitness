@@ -1,0 +1,6 @@
+{
+  "name": "Streakfit",
+  "description": "Dark kinetic workout & habit tracker with streak momentum, 30-day activity heatmap, live gym session logger, and habit correlation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
